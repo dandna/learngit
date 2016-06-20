@@ -1,3 +1,4 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-fail add two line.
+master add two line
+fail add a line.
